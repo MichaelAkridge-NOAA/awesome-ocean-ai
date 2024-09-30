@@ -11,10 +11,8 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - [Miscellaneous](#miscellaneous)
 
 ---
-## Starter Courses
+## Starter Courses / Tools / Frameworks
 - https://developers.google.com/machine-learning/crash-course/
-
-## Starter Tools
 - https://colab.research.google.com   | Free GPU Access
 - [KSO System](https://github.com/ocean-data-factory-sweden/kso) - Koster Seafloor Observatory System is an open-source, citizen science and machine learning approach framework of tools
 
