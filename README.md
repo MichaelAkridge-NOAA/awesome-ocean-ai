@@ -17,11 +17,6 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 ## StarterTools 
 - https://colab.research.google.com   | Free GPU Access
 
-## AI / ML Frameworks
-- https://github.com/esri/deep-learning-frameworks
-- [KSO System](https://github.com/ocean-data-factory-sweden/kso) - Koster Seafloor Observatory System is an open-source, citizen science and machine learning approach framework of tools
-  - https://subsim.se/ - the Swedish platform for subsea image analysis
-
 ## Image Annotation
 | Name | Free | Open Source | AI Assisted Annotation | Notes |
 |---------------------------------------------------|------|-------------|------------------------|-----------------------------------------------------------------------------------------------|
@@ -68,7 +63,11 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 | [ADELIE](https://www.flotteoceanographique.fr/La-Flotte/Logiciels-embarques/ADELIE) | ✅ | ❌ | Marine research annotation tool. |
 
 ---
-
+## AI / ML Frameworks
+- [KSO System](https://github.com/ocean-data-factory-sweden/kso) - Koster Seafloor Observatory System is an open-source, citizen science and machine learning approach framework of tools
+  - https://subsim.se/ - the Swedish platform for subsea image analysis
+- https://github.com/esri/deep-learning-frameworks
+---
 ## AI / ML Backends
 | Name | Link | Notes |
 |------|------|-------|
@@ -78,7 +77,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 
 ---
 
-## Models
+## AI / ML Models
 | Name  | Link  | Description |
 |-------|-------|-------------|
 | FathomNet | [Hugging Face](https://huggingface.co/FathomNet) / [GitHub](https://github.com/fathomnet/models) | Models for marine species detection and analysis. |
@@ -104,7 +103,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 
 ---
 
-## Training Data Sets & Hubs
+## Training Data Sets & Data Hubs
 - [Hugging Face](https://huggingface.co/)
 - [Roboflow](https://roboflow.com/)
 - https://roboflow.com/pricing | Example: https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
@@ -120,19 +119,6 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - Dataset: https://www.gbif.org/dataset/51d0bd32-e215-45ea-a04d-47a474336125
 - Mermaid - https://datamermaid.org/
 ---
-
-## Miscellaneous
-| Name | Free | Open Source | Notes |
-| -- | -- | -- | -- |
-| [Dive](https://github.com/Kitware/dive) | ✅ | ✅ | Annotation tool for 2D and 3D video data. |
-| [Norfair](https://github.com/tryolabs/norfair) | ✅ | ✅ | Lightweight Python library for adding real-time multi-object tracking to any detector.|
-| [3D Metrics](https://3d-metrics.com/) | ❌ | ❌ | 3D analysis for marine imagery. |
-| [Cthulhu](https://github.com/mbari-media-management/cthulhu) | ✅ | ✅ | Video player with remote control API and localization support. |
-| [iNaturalist](https://www.inaturalist.org/) | ✅ | ❌ | Biodiversity identification resource. |
-| [Matisse](https://www.eso.org/sci/facilities/develop/instruments/matisse.html) | ❌ | ❌ | Tool for spectral analysis. |
-| [OpenCV](https://opencv.org/) | ✅ | ✅ | Computer vision library for image/video processing. |
-| [Sharktopoda](https://github.com/mbari-org/Sharktopoda) | ✅ | ✅ | Video player with remote control and bounding box support. |
-| [FishIDTrackers](https://github.com/slopezmarcano/automated-fish-tracking) | ✅ | ✅ | Fish detection and tracking pipelines with demo datasets. |
 
 ## Data Managment 
 - https://github.com/csiro-fair/marimba
@@ -156,6 +142,19 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/geospatial-artificial-intelligence-animals
 - Harmful algae classifier: https://www.epa.gov/sites/default/files/2018-10/documents/benthic-habs-using-machine-10232018.pdf
 - https://wildlife.ai/using-ai-to-identify-new-zealand-fish-project-completion-update/
+
+## Miscellaneous
+| Name | Free | Open Source | Notes |
+| -- | -- | -- | -- |
+| [Dive](https://github.com/Kitware/dive) | ✅ | ✅ | Annotation tool for 2D and 3D video data. |
+| [Norfair](https://github.com/tryolabs/norfair) | ✅ | ✅ | Lightweight Python library for adding real-time multi-object tracking to any detector.|
+| [3D Metrics](https://3d-metrics.com/) | ❌ | ❌ | 3D analysis for marine imagery. |
+| [Cthulhu](https://github.com/mbari-media-management/cthulhu) | ✅ | ✅ | Video player with remote control API and localization support. |
+| [iNaturalist](https://www.inaturalist.org/) | ✅ | ❌ | Biodiversity identification resource. |
+| [Matisse](https://www.eso.org/sci/facilities/develop/instruments/matisse.html) | ❌ | ❌ | Tool for spectral analysis. |
+| [OpenCV](https://opencv.org/) | ✅ | ✅ | Computer vision library for image/video processing. |
+| [Sharktopoda](https://github.com/mbari-org/Sharktopoda) | ✅ | ✅ | Video player with remote control and bounding box support. |
+| [FishIDTrackers](https://github.com/slopezmarcano/automated-fish-tracking) | ✅ | ✅ | Fish detection and tracking pipelines with demo datasets. |
 
 # To Review:
 - ReefCloud - https://reefcloud.ai/
