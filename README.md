@@ -20,6 +20,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 ## AI / ML Frameworks
 - https://github.com/esri/deep-learning-frameworks
 - [KSO System](https://github.com/ocean-data-factory-sweden/kso) - Koster Seafloor Observatory System is an open-source, citizen science and machine learning approach framework of tools
+- https://subsim.se/ - the Swedish platform for subsea image analysis
 
 ## Image Annotation
 | Name | Free | Open Source | AI Assisted Annotation | Notes |
@@ -89,6 +90,10 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - https://github.com/facebookresearch/sam2
 - https://github.com/facebookresearch/detr
 - https://github.com/ultralytics/ultralytics
+- https://www.kaggle.com/models/google/multispecies-whale
+- https://coral.ai/models/
+- https://github.com/google-coral/example-object-tracker
+- Model: https://zenodo.org/records/13589902
 ---
 
 ## Identification Resources
@@ -102,6 +107,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 ## Training Data Sets & Hubs
 - [Hugging Face](https://huggingface.co/)
 - [Roboflow](https://roboflow.com/)
+- https://roboflow.com/pricing | Example: https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
 - https://www.zooniverse.org
 - [Atlantis Dataset](https://github.com/smhassanerfani/atlantis)
 - [FathomNet](http://fathomnet.org)
@@ -111,7 +117,8 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - [DeepFish](https://alzayats.github.io/DeepFish/)
 - [VIAME](https://viame.kitware.com)
 - [Croatian Fish Dataset](https://github.com/jaeger-j/FishID/tree/main/datasets)
-
+- Dataset: https://www.gbif.org/dataset/51d0bd32-e215-45ea-a04d-47a474336125
+- Mermaid - https://datamermaid.org/
 ---
 
 ## Miscellaneous
@@ -130,44 +137,11 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 ## Data Managment 
 - https://github.com/csiro-fair/marimba
 - https://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/what-is-a-geodatabase.htm
+
 ## Apps
 - https://github.com/tkwant/fish-localization
 - https://github.com/ShrimpCryptid/deepsea-detector
   - https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
-
-# To Review:
-- https://github.com/heinsense2/AIO_CaseStudy
-- https://github.com/Ahmad-AlShalabi/Fish-detection
-- https://github.com/yohmori/Fish-Detector
-- https://github.com/patrick-tssn/Streaming-Grounded-SAM-2
-- https://github.com/HumanSignal/awesome-data-labeling
-- https://github.com/mattdawkins/awesome-data-annotation
-- https://github.com/cappelletto/awesome-coral-research
-- https://github.com/slopezmarcano/automated-fish-tracking
-- https://github.com/slopezmarcano/YOLO-Fish
-- https://github.com/slopezmarcano/fishid-budgeting
-- https://github.com/slopezmarcano/computer-vision-training-the-gambia
-- https://github.com/slopezmarcano/dataset-fish-detection-low-visibility
-- https://github.com/cappelletto/Geo-SAM
-- https://github.com/coralnet/pyspacer
-- https://subsim.se/ - the Swedish platform for subsea image analysis
-- https://www.zooniverse.org/projects/victorav/the-koster-seafloor-observatory/classify/workflow/23483
-- https://snd.se/sv/catalogue/dataset/2022-98-1/1
-- https://wildlife.ai/using-ai-to-identify-new-zealand-fish-project-completion-update/
-- https://github.com/wildlifeai/FishDetection-FasterRCNN-project
-- Model: https://zenodo.org/records/13589902
-- Dataset: https://www.gbif.org/dataset/51d0bd32-e215-45ea-a04d-47a474336125
-- https://coral.ai/models/
-- https://github.com/google-coral/example-object-tracker
-- https://www.kaggle.com/models/google/multispecies-whale
-- https://www.fisheries.noaa.gov/feature-story/hey-google-find-new-whale-sound?utm_medium=email&utm_source=govdelivery
-- https://www.fisheries.noaa.gov/pacific-islands/population-assessments/passive-acoustics-pacific-islands
-- Harmful algae classifier: https://www.epa.gov/sites/default/files/2018-10/documents/benthic-habs-using-machine-10232018.pdf
-- https://roboflow.com/pricing | Example: https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
-- Coralnet - https://coralnet.ucsd.edu/
-- ReefCloud - https://reefcloud.ai/
-- Mermaid - https://datamermaid.org/
-- https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/geospatial-artificial-intelligence-animals
 
 # AI / ML Deep Learning & GIS
 - https://github.com/coolzhao/Geo-SAM
@@ -176,6 +150,30 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - https://www.arcgis.com/home/item.html?id=9b67b441f29f4ce6810979f5f0667ebe
 - https://doc.arcgis.com/en/pretrained-models/latest/imagery/introduction-to-segment-anything-model-sam-.htm
 
+# News, Readings & Journals
+- https://www.fisheries.noaa.gov/feature-story/hey-google-find-new-whale-sound?utm_medium=email&utm_source=govdelivery
+- https://www.fisheries.noaa.gov/pacific-islands/population-assessments/passive-acoustics-pacific-islands
+- https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/geospatial-artificial-intelligence-animals
+- Harmful algae classifier: https://www.epa.gov/sites/default/files/2018-10/documents/benthic-habs-using-machine-10232018.pdf
+- https://wildlife.ai/using-ai-to-identify-new-zealand-fish-project-completion-update/
+
+# To Review:
+- ReefCloud - https://reefcloud.ai/
+- https://github.com/HumanSignal/awesome-data-labeling
+- https://github.com/mattdawkins/awesome-data-annotation
+- https://github.com/cappelletto/awesome-coral-research
+- https://github.com/heinsense2/AIO_CaseStudy
+- https://github.com/Ahmad-AlShalabi/Fish-detection
+- https://github.com/yohmori/Fish-Detector
+- https://github.com/patrick-tssn/Streaming-Grounded-SAM-2
+- https://github.com/slopezmarcano/automated-fish-tracking
+- https://github.com/slopezmarcano/YOLO-Fish
+- https://github.com/slopezmarcano/fishid-budgeting
+- https://github.com/slopezmarcano/computer-vision-training-the-gambia
+- https://github.com/slopezmarcano/dataset-fish-detection-low-visibility
+- https://www.zooniverse.org/projects/victorav/the-koster-seafloor-observatory/classify/workflow/23483
+- https://snd.se/sv/catalogue/dataset/2022-98-1/1
+- https://github.com/wildlifeai/FishDetection-FasterRCNN-project
 ----------
 #### Disclaimer
 This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project content is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
