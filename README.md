@@ -29,7 +29,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 | [BIIGLE](https://www.biigle.de/) | ✅ | ✅ | ✅ | ✅ |  | Check [GitHub](https://github.com/biigle/). |
 | [FishID](https://globalwetlandsproject.org/tools-2/fishid/) | ✅ | ✅ | ✅ | 🔜 |  | Email to request access: fishidglow@outlook.com. |
 | [TagLab](https://github.com/cnr-isti-vclab/TagLab/) | ✅ | ❌ | ✅ | ✅ | ✅ |  |
-| [VoTT (Archived)](https://github.com/Microsoft/VoTT) | ✅ | ❌ | ✅ | ✅ |  | Officially archived, last update in 2020. |
+| [VoTT (Archived)](https://github.com/Microsoft/VoTT) | ✅ | ❌ | ✅ | ✅ | ❌ | Officially archived, last update in 2020. |
 | [SEAMS](https://github.com/begeospatial/seams-app) | ✅ | ❌ | ✅ | ✅ | ❌ | SEafloor Annotation and Mapping Support Open-source tool for video and image annotation. |
 | [labelme](https://github.com/wkentaro/labelme) | ✅ | ❌ | ✅ | ✅ | ❌ | Basic annotation tool for labeling images. |
 | [Sebastes](https://repository.library.noaa.gov/view/noaa/11999/noaa_11999_DS1.pdf) | ✅ | ❌ | ✅ | ✅ | ❌ | Used for fish detection. |
