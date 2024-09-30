@@ -15,52 +15,40 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - https://developers.google.com/machine-learning/crash-course/
 
 ## StarterTools 
-- https://colab.research.google.com   | Free GPU Access
+- https://colab.research.google.com   (Free GPU Access)
+- https://notebooklm.google/
 
-## Image Annotation
-| Name | Free | Open Source | AI Assisted Annotation | Notes |
-|---------------------------------------------------|------|-------------|------------------------|-----------------------------------------------------------------------------------------------|
-| [Label Studio](https://github.com/HumanSignal/label-studio) | ✅| ✅ | ✅ | Multi-type data labeling and annotation tool with standardized output format. |
-| [CVAT](https://github.com/opencv/cvat)            | ✅    | ✅  | ✅ | Open-source tool for video and image annotation. |
-| [TagLab](https://github.com/cnr-isti-vclab/TagLab/) | ✅    | ✅  | ✅ |  |
-| [VIAME](http://www.viametoolkit.org/)             | ✅    | ✅  | ✅ | See [documentation](https://viame.readthedocs.io/en/latest/section_links/documentation_overview.html). |
-| [SEAMS](https://github.com/begeospatial/seams-app)    | ✅    | ✅  | | SEafloor Annotation and Mapping Support Open-source tool for video and image annotation. |
-| [Tator](https://www.tator.io/)                    | ✅    | ✅  | | See [Tutorials](https://www.tator.io/tutorials) and [Source Code](https://github.com/cvisionai/Tator). |
-| [VoTT (Archived)](https://github.com/Microsoft/VoTT) | ✅ | ✅ | | Officially archived, last update in 2020. |
-| [BIIGLE](https://www.biigle.de/)                  | ✅    | ✅  | | Check [GitHub](https://github.com/biigle/). |
-| [labelme](https://github.com/wkentaro/labelme)    | ✅    | ✅  | | Basic annotation tool for labeling images. |
-| [Sebastes](https://repository.library.noaa.gov/view/noaa/11999/noaa_11999_DS1.pdf) | ✅ | ✅ | | Used for fish detection. |
-| [Squidle+](https://bitbucket.org/ariell/marinedb) | ✅ | ✅ | | Marine biology database and annotation tool. |
-| [FishID](https://globalwetlandsproject.org/tools-2/fishid/) | ✅ | 🔜 | | Email to request access: fishidglow@outlook.com. |
-| [Coral Point Count with Excel extensions](https://cnso.nova.edu/cpce/index.html) | ✅ | ❌ | | Popular for coral reef studies. |
-| [BenthoBox](https://benthobox.com)                | ✅ | ❌ | | Benthic imagery analysis tool. |
-| [CoralNet](https://coralnet.ucsd.edu/)            | ✅ | ❌ | ✅ | Great for coral species identification. |
-| [Supervisely](https://supervise.ly/)              | ❌ | ❌ | ✅ | Paid service, widely used for AI-based labeling. |
-| [Deep Sea Spy](https://www.deepseaspy.com)        | ❌ | ❌ | | Online annotation tool. |
-| [Labelbox](https://labelbox.com/)                 | ❌ | ❌ | ✅ | Leading platform for AI-assisted labeling. |
-| [OFOP](http://www.ofop-by-sams.eu/)               | ❌ | ❌ | | Oceanographic annotation platform. |
-| [RectLabel](https://rectlabel.com/)               | ❌ | ❌ | | Paid video/image annotation tool for macOS. |
-| [SeaGIS](https://www.seagis.com.au/)              | ❌ | ❌ | | Includes [EventMeasure](https://www.seagis.com.au/event.html) and [TransectMeasure](https://www.seagis.com.au/transect.html). |
-
-
----
-
-## Video Annotation
-| Name | Free | Open Source | Notes |
-| -- | -- | -- | -- |
-| [Label Studio](https://github.com/HumanSignal/label-studio) | ✅ | ✅ | Multi-type data labeling and annotation tool. |
-| [CVAT](https://github.com/opencv/cvat) | ✅ | ✅ | Extensive video annotation support. |
-| [BIIGLE](https://www.biigle.de/) | ✅ | ✅ | See [GitHub](https://github.com/biigle/). |
-| [MBARI Media Management (M3/VARS)](https://mbari-media-management.github.io/) | ✅ | ✅ | Specialized tool for deep-sea video management. |
-| [Scalabel](https://www.scalabel.ai/) | ✅ | ✅ | Modern video and image annotation platform. |
-| [Tator](https://www.tator.io/) | ✅ | ✅ | See [Tutorials](https://www.tator.io/tutorials). |
-| [VARS](https://hohonuuli.github.io/vars/) | ✅ | ✅ | Annotation and reference system for underwater video. |
-| [video-annotation-tool](https://github.com/video-annotation-project/video-annotation-tool) | ✅ | ✅ | Lightweight, open-source tool. |
-| [VIAME](http://www.viametoolkit.org/) | ✅ | ✅ | [Docs](https://viame.readthedocs.io/en/latest/section_links/documentation_overview.html). |
-| [FishID](https://globalwetlandsproject.org/tools-2/fishid/) | ✅ | 🔜 | Email fishidglow@outlook.com for access. |
-| [Digital Fishers](https://www.oceannetworks.ca/learning/get-involved/citizen-science/digital-fishers) | ❌ | ❌ | Citizen science platform for video classification. |
-| [SeaTube](http://dmas.uvic.ca/SeaTube) | ✅ | ❌ | Tool for underwater video annotation. |
-| [ADELIE](https://www.flotteoceanographique.fr/La-Flotte/Logiciels-embarques/ADELIE) | ✅ | ❌ | Marine research annotation tool. |
+## Image and Video Annotation
+| Name | Image | Video | Free | Open Source | AI Assisted Annotation | Notes |
+|---------------------------------------------------|-------|-------|------|-------------|------------------------|-----------------------------------------------------------------------------------------------|
+| [Label Studio](https://github.com/HumanSignal/label-studio) | ✅ | ✅ | ✅ | ✅ | ✅ | Multi-type data labeling and annotation tool with standardized output format. |
+| [CVAT](https://github.com/opencv/cvat) | ✅ | ✅ | ✅ | ✅ | ✅ | Open-source tool for video and image annotation. |
+| [VIAME](http://www.viametoolkit.org/) | ✅ | ✅ | ✅ | ✅ | ✅ | See [documentation](https://viame.readthedocs.io/en/latest/section_links/documentation_overview.html). |
+| [Scalabel](https://github.com/scalabel/scalabel) | ✅ | ✅ | ✅ | ✅ |  | Modern video and image annotation platform. |
+| [Tator](https://www.tator.io/) | ✅ | ✅ | ✅ | ✅ |  | See [Tutorials](https://www.tator.io/tutorials) and [Source Code](https://github.com/cvisionai/Tator). |
+| [BIIGLE](https://www.biigle.de/) | ✅ | ✅ | ✅ | ✅ |  | Check [GitHub](https://github.com/biigle/). |
+| [FishID](https://globalwetlandsproject.org/tools-2/fishid/) | ✅ | ✅ | ✅ | 🔜 |  | Email to request access: fishidglow@outlook.com. |
+| [TagLab](https://github.com/cnr-isti-vclab/TagLab/) | ✅ | ❌ | ✅ | ✅ | ✅ |  |
+| [VoTT (Archived)](https://github.com/Microsoft/VoTT) | ✅ | ❌ | ✅ | ✅ |  | Officially archived, last update in 2020. |
+| [SEAMS](https://github.com/begeospatial/seams-app) | ✅ | ❌ | ✅ | ✅ | ❌ | SEafloor Annotation and Mapping Support Open-source tool for video and image annotation. |
+| [labelme](https://github.com/wkentaro/labelme) | ✅ | ❌ | ✅ | ✅ | ❌ | Basic annotation tool for labeling images. |
+| [Sebastes](https://repository.library.noaa.gov/view/noaa/11999/noaa_11999_DS1.pdf) | ✅ | ❌ | ✅ | ✅ | ❌ | Used for fish detection. |
+| [Squidle+](https://bitbucket.org/ariell/marinedb) | ✅ | ❌ | ✅ | ✅ | ❌ | Marine biology database and annotation tool. |
+| [CoralNet](https://coralnet.ucsd.edu/) | ✅ | ❌ | ✅ | ❌ | ✅ | Great for coral species identification. |
+| [Coral Point Count with Excel extensions](https://cnso.nova.edu/cpce/index.html) | ✅ | ❌ | ✅ | ❌ | ❌ | Popular for coral reef studies. |
+| [BenthoBox](https://benthobox.com) | ✅ | ❌ | ✅ | ❌ | ❌ | Benthic imagery analysis tool. |
+| [Supervisely](https://supervise.ly/) | ✅ | ❌ | ❌ | ❌ | ✅ | Paid service, widely used for AI-based labeling. |
+| [Deep Sea Spy](https://www.deepseaspy.com) | ✅ | ❌ | ❌ | ❌ | ❌ | Online annotation tool. |
+| [Labelbox](https://labelbox.com/) | ✅ | ❌ | ❌ | ❌ | ✅ | Leading platform for AI-assisted labeling. |
+| [OFOP](http://www.ofop-by-sams.eu/) | ✅ | ❌ | ❌ | ❌ | ❌ | Oceanographic annotation platform. |
+| [RectLabel](https://rectlabel.com/) | ✅ | ❌ | ❌ | ❌ | ❌ | Paid video/image annotation tool for macOS. |
+| [SeaGIS](https://www.seagis.com.au/) | ✅ | ❌ | ❌ | ❌ | ❌ | Includes [EventMeasure](https://www.seagis.com.au/event.html) and [TransectMeasure](https://www.seagis.com.au/transect.html). |
+| [MBARI Media Management (M3/VARS)](https://mbari-media-management.github.io/) | ❌ | ✅ | ✅ | ✅ | ❌ | Specialized tool for deep-sea video management. |
+| [VARS](https://hohonuuli.github.io/vars/) | ❌ | ✅ | ✅ | ✅ | ❌ | Annotation and reference system for underwater video. |
+| [video-annotation-tool](https://github.com/video-annotation-project/video-annotation-tool) | ❌ | ✅ | ✅ | ✅ | ❌ | Lightweight, open-source tool. |
+| [Digital Fishers](https://www.oceannetworks.ca/learning/get-involved/citizen-science/digital-fishers) | ❌ | ✅ | ❌ | ❌ | ❌ | Citizen science platform for video classification. |
+| [SeaTube](http://dmas.uvic.ca/SeaTube) | ❌ | ✅ | ✅ | ❌ | ❌ | Tool for underwater video annotation. |
+| [ADELIE](https://www.flotteoceanographique.fr/La-Flotte/Logiciels-embarques/ADELIE) | ❌ | ✅ | ✅ | ❌ | ❌ | Marine research annotation tool. |
 
 ---
 ## AI / ML Frameworks
@@ -147,7 +135,6 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 ## Miscellaneous
 | Name | Free | Open Source | Notes |
 | -- | -- | -- | -- |
-| [Dive](https://github.com/Kitware/dive) | ✅ | ✅ | Annotation tool for 2D and 3D video data. |
 | [Norfair](https://github.com/tryolabs/norfair) | ✅ | ✅ | Lightweight Python library for adding real-time multi-object tracking to any detector.|
 | [3D Metrics](https://3d-metrics.com/) | ❌ | ❌ | 3D analysis for marine imagery. |
 | [Cthulhu](https://github.com/mbari-media-management/cthulhu) | ✅ | ✅ | Video player with remote control API and localization support. |
