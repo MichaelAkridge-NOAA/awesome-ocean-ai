@@ -20,7 +20,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 ## AI / ML Frameworks
 - https://github.com/esri/deep-learning-frameworks
 - [KSO System](https://github.com/ocean-data-factory-sweden/kso) - Koster Seafloor Observatory System is an open-source, citizen science and machine learning approach framework of tools
-- https://subsim.se/ - the Swedish platform for subsea image analysis
+  - https://subsim.se/ - the Swedish platform for subsea image analysis
 
 ## Image Annotation
 | Name | Free | Open Source | AI Assisted Annotation | Notes |
