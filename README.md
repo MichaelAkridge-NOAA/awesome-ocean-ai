@@ -125,6 +125,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - https://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/what-is-a-geodatabase.htm
 
 ## Apps
+- https://github.com/MichaelAkridge-NOAA/Fish-or-No-Fish-Detector
 - https://github.com/tkwant/fish-localization
 - https://github.com/ShrimpCryptid/deepsea-detector
   - https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
