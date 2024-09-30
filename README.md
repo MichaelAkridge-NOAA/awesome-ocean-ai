@@ -109,11 +109,6 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - [VIAME](https://viame.kitware.com)
 - [Croatian Fish Dataset] (https://github.com/jaeger-j/FishID/tree/main/datasets)
 
-
-## Apps
-- https://github.com/tkwant/fish-localization
-- https://github.com/ShrimpCryptid/deepsea-detector
-  - https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
 ---
 
 ## Miscellaneous
@@ -128,16 +123,27 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 | [OpenCV](https://opencv.org/) | ✅ | ✅ | Computer vision library for image/video processing. |
 | [Sharktopoda](https://github.com/mbari-org/Sharktopoda) | ✅ | ✅ | Video player with remote control and bounding box support. |
 | [FishIDTrackers](https://github.com/slopezmarcano/automated-fish-tracking) | ✅ | ✅ | Fish detection and tracking pipelines with demo datasets. |
-- https://github.com/heinsense2/AIO_CaseStudy
-- https://github.com/Ahmad-AlShalabi/Fish-detection
-- https://github.com/yohmori/Fish-Detector
-- https://github.com/patrick-tssn/Streaming-Grounded-SAM-2
 
 ## Data Managment 
 - https://github.com/csiro-fair/marimba
 
+## Apps
+- https://github.com/tkwant/fish-localization
+- https://github.com/ShrimpCryptid/deepsea-detector
+  - https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
 
 # To Review:
+- https://github.com/heinsense2/AIO_CaseStudy
+- https://github.com/Ahmad-AlShalabi/Fish-detection
+- https://github.com/yohmori/Fish-Detector
+- https://github.com/patrick-tssn/Streaming-Grounded-SAM-2
 - https://github.com/HumanSignal/awesome-data-labeling
 - https://github.com/mattdawkins/awesome-data-annotation
 - https://github.com/cappelletto/awesome-coral-research
+- https://github.com/slopezmarcano/automated-fish-tracking
+- https://github.com/slopezmarcano/YOLO-Fish
+- https://github.com/slopezmarcano/fishid-budgeting
+- https://github.com/slopezmarcano/computer-vision-training-the-gambia
+- https://github.com/slopezmarcano/dataset-fish-detection-low-visibility
+- https://github.com/cappelletto/Geo-SAM
+- https://github.com/coralnet/pyspacer
