@@ -1,18 +1,23 @@
 # awesome-image-tools
 A community driven list of useful tools for marine image and video analysis.
 
-## Slack
-
-To contact fellow scientists working on image and video analysis, you can join our community at <https://marineimaging.slack.com/>. Send a request to _brian at mbari dot org_ for an invitation.
-
 ## Table of Contents
 
 - [Projects](#projects)
+  - [Models](#models)
   - [Identification](#identification)
   - [Image Annotation](#image-annotation)
   - [Miscellaneous](#miscellaneous)
   - [Training Sets](#training-sets)
   - [Video Annotation](#video-annotation)
+## Models - Github
+- https://github.com/VIAME/VIAME/wiki/Model-Zoo-and-Add-Ons
+- https://github.com/fathomnet/models
+
+## Models - Hugging Face
+- https://huggingface.co/FathomNet
+- https://huggingface.co/akridge/yolo8-fish-detector-grayscale
+
 
 ## Identification
 
