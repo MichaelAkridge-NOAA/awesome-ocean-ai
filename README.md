@@ -135,3 +135,10 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 
 ## Data Managment 
 - https://github.com/csiro-fair/marimba
+
+
+# To Review:
+- https://github.com/HumanSignal/awesome-data-labeling
+- https://github.com/mattdawkins/awesome-data-annotation
+- https://github.com/cappelletto/awesome-coral-research
+- https://github.com/slopezmarcano/awesome-image-tools
