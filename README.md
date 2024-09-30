@@ -106,7 +106,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - [FishIDLuderick](https://github.com/globalwetlands/luderick-seagrass)
 - [DeepFish](https://alzayats.github.io/DeepFish/)
 - [VIAME](https://viame.kitware.com)
-- [Croatian Fish Dataset] (https://github.com/jaeger-j/FishID/tree/main/datasets)
+- [Croatian Fish Dataset](https://github.com/jaeger-j/FishID/tree/main/datasets)
 
 ---
 
@@ -160,12 +160,15 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - https://www.fisheries.noaa.gov/pacific-islands/population-assessments/passive-acoustics-pacific-islands
 - Harmful algae classifier: https://www.epa.gov/sites/default/files/2018-10/documents/benthic-habs-using-machine-10232018.pdf
 - https://roboflow.com/pricing | Example: https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
-Coralnet - https://coralnet.ucsd.edu/
-ReefCloud - https://reefcloud.ai/
-Mermaid - https://datamermaid.org/
-https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/geospatial-artificial-intelligence-animals
-https://github.com/coolzhao/Geo-SAM
-https://doc.arcgis.com/en/pretrained-models/latest/imagery/using-segment-anything-model-sam-.htm
-https://www.arcgis.com/home/item.html?id=9b67b441f29f4ce6810979f5f0667ebe
-https://doc.arcgis.com/en/pretrained-models/latest/imagery/introduction-to-segment-anything-model-sam-.htm
-https://pro.arcgis.com/en/pro-app/latest/get-started/use-extensions-in-arcgis-pro.htm
+- Coralnet - https://coralnet.ucsd.edu/
+- ReefCloud - https://reefcloud.ai/
+- Mermaid - https://datamermaid.org/
+
+# AI & GIS
+- https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/geospatial-artificial-intelligence-animals
+- https://github.com/coolzhao/Geo-SAM
+- https://doc.arcgis.com/en/pretrained-models/latest/imagery/using-segment-anything-model-sam-.htm
+- https://www.arcgis.com/home/item.html?id=9b67b441f29f4ce6810979f5f0667ebe
+- https://doc.arcgis.com/en/pretrained-models/latest/imagery/introduction-to-segment-anything-model-sam-.htm
+- https://pro.arcgis.com/en/pro-app/latest/get-started/use-extensions-in-arcgis-pro.htm
+- https://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/what-is-a-geodatabase.htm
