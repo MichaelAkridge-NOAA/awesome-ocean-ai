@@ -14,6 +14,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 ## Starter Courses / Tools / Frameworks
 - https://developers.google.com/machine-learning/crash-course/
 - https://colab.research.google.com   | Free GPU Access
+- https://github.com/esri/deep-learning-frameworks
 - [KSO System](https://github.com/ocean-data-factory-sweden/kso) - Koster Seafloor Observatory System is an open-source, citizen science and machine learning approach framework of tools
 
 ## Image Annotation
