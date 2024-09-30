@@ -164,3 +164,8 @@ Coralnet - https://coralnet.ucsd.edu/
 ReefCloud - https://reefcloud.ai/
 Mermaid - https://datamermaid.org/
 https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/geospatial-artificial-intelligence-animals
+https://github.com/coolzhao/Geo-SAM
+https://doc.arcgis.com/en/pretrained-models/latest/imagery/using-segment-anything-model-sam-.htm
+https://www.arcgis.com/home/item.html?id=9b67b441f29f4ce6810979f5f0667ebe
+https://doc.arcgis.com/en/pretrained-models/latest/imagery/introduction-to-segment-anything-model-sam-.htm
+https://pro.arcgis.com/en/pro-app/latest/get-started/use-extensions-in-arcgis-pro.htm
