@@ -11,9 +11,13 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - [Miscellaneous](#miscellaneous)
 
 ---
-## Starter Courses / Tools / Frameworks
+## Starter Courses 
 - https://developers.google.com/machine-learning/crash-course/
+
+## StarterTools 
 - https://colab.research.google.com   | Free GPU Access
+
+## AI / ML Frameworks
 - https://github.com/esri/deep-learning-frameworks
 - [KSO System](https://github.com/ocean-data-factory-sweden/kso) - Koster Seafloor Observatory System is an open-source, citizen science and machine learning approach framework of tools
 
@@ -125,7 +129,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 
 ## Data Managment 
 - https://github.com/csiro-fair/marimba
-
+- https://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/what-is-a-geodatabase.htm
 ## Apps
 - https://github.com/tkwant/fish-localization
 - https://github.com/ShrimpCryptid/deepsea-detector
@@ -163,15 +167,14 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - Coralnet - https://coralnet.ucsd.edu/
 - ReefCloud - https://reefcloud.ai/
 - Mermaid - https://datamermaid.org/
-
-# AI & GIS
 - https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/geospatial-artificial-intelligence-animals
+
+# AI / ML Deep Learning & GIS
 - https://github.com/coolzhao/Geo-SAM
+- https://github.com/esri/deep-learning-frameworks
 - https://doc.arcgis.com/en/pretrained-models/latest/imagery/using-segment-anything-model-sam-.htm
 - https://www.arcgis.com/home/item.html?id=9b67b441f29f4ce6810979f5f0667ebe
 - https://doc.arcgis.com/en/pretrained-models/latest/imagery/introduction-to-segment-anything-model-sam-.htm
-- https://pro.arcgis.com/en/pro-app/latest/get-started/use-extensions-in-arcgis-pro.htm
-- https://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/what-is-a-geodatabase.htm
 
 ----------
 #### Disclaimer
