@@ -9,29 +9,6 @@ Collection of tools and resources for marine image and video analysis, annotatio
 - [Video Annotation](#video-annotation)
 - [Miscellaneous](#miscellaneous)
 
-## Models
-| Name                                | Link                                                         | Description                                                                                  |
-|:------------------------------------|:-------------------------------------------------------------|:---------------------------------------------------------------------------------------------|
-| FathomNet  | [Hugging Face](https://huggingface.co/FathomNet) / [GitHub](https://github.com/fathomnet/models)                            | Models from FathomNet for marine species detection and analysis.                             |
-| Fish Detector  | [https://huggingface.co/akridge/yolo8-fish-detector-grayscale](https://huggingface.co/akridge/yolo8-fish-detector-grayscale) | A grayscale YOLOv8 model trained to detect fish in marine imagery.                           |
-| VIAME Model Zoo            | [https://github.com/VIAME/VIAME/wiki/Model-Zoo-and-Add-Ons](https://github.com/VIAME/VIAME/wiki/Model-Zoo-and-Add-Ons)    | A collection of models and add-ons for video and image-based marine analysis by VIAME.       |
-|Placeholder |||
-
-## Identification Resources
-- [Encyclopedia of Life](https://eol.org/)
-- [MBARI Deep-Sea Guide](http://dsg.mbari.org)
-- [Tree of Life](http://tolweb.org)
-- [World Register of Marine Species (WoRMS)](http://www.marinespecies.org/)
-
-## Training Data Sets
-- [Hugging Face]([http://fathomnet.org](https://huggingface.co/)) 
-- [FathomNet](http://fathomnet.org) 
-- [Fishnet.AI](https://www.fishnet.ai/])
-- [FishIDLowViz](https://github.com/slopezmarcano/dataset-fish-detection-low-visibility)
-- [FishIDLuderick](https://github.com/globalwetlands/luderick-seagrass)
-- [DeepFish](https://alzayats.github.io/DeepFish/)
-- [VIAME](https://viame.kitware.com)
-
 ## Image Annotation
 | Name | Free | Open Source | AI Assisted Annotation | Notes |
 |---------------------------------------------------|------|-------------|------------------------|-----------------------------------------------------------------------------------------------|
@@ -56,9 +33,6 @@ Collection of tools and resources for marine image and video analysis, annotatio
 | [RectLabel](https://rectlabel.com/)               | ❌    | ❌           |                        |                                                                                               |
 | [SeaGIS](https://www.seagis.com.au/)              | ❌    | ❌           |                        | Includes [EventMeasure](https://www.seagis.com.au/event.html) and [TransectMeasure](https://www.seagis.com.au/transect.html) |
 
-## AI / ML Model Backend
-
-
 ## Video Annotation
 | Name | Free | Open Source | Notes |
 | -- | -- | --| -- |
@@ -75,6 +49,33 @@ Collection of tools and resources for marine image and video analysis, annotatio
 | [Digital Fisher](https://www.oceannetworks.ca/learning/get-involved/citizen-science/digital-fishers) | ❌ | ❌ | |
 | [SeaTube](http://dmas.uvic.ca/SeaTube) | ✅ | ❌ | |
 | [ADELIE](https://www.flotteoceanographique.fr/La-Flotte/Logiciels-embarques/ADELIE) | ✅ | ❌ | |
+
+## AI / ML Model Backend
+
+## Models
+| Name                                | Link                                                         | Description                                                                                  |
+|:------------------------------------|:-------------------------------------------------------------|:---------------------------------------------------------------------------------------------|
+| FathomNet  | [Hugging Face](https://huggingface.co/FathomNet) / [GitHub](https://github.com/fathomnet/models)                            | Models from FathomNet for marine species detection and analysis.                             |
+| Fish Detector  | [https://huggingface.co/akridge/yolo8-fish-detector-grayscale](https://huggingface.co/akridge/yolo8-fish-detector-grayscale) | A grayscale YOLOv8 model trained to detect fish in marine imagery.                           |
+| VIAME Model Zoo            | [https://github.com/VIAME/VIAME/wiki/Model-Zoo-and-Add-Ons](https://github.com/VIAME/VIAME/wiki/Model-Zoo-and-Add-Ons)    | A collection of models and add-ons for video and image-based marine analysis by VIAME.       |
+|Placeholder |||
+
+## Identification Resources
+- [Encyclopedia of Life](https://eol.org/)
+- [MBARI Deep-Sea Guide](http://dsg.mbari.org)
+- [Tree of Life](http://tolweb.org)
+- [World Register of Marine Species (WoRMS)](http://www.marinespecies.org/)
+
+## Training Data Sets
+- [Hugging Face]([http://fathomnet.org](https://huggingface.co/)) 
+- [FathomNet](http://fathomnet.org) 
+- [Fishnet.AI](https://www.fishnet.ai/])
+- [FishIDLowViz](https://github.com/slopezmarcano/dataset-fish-detection-low-visibility)
+- [FishIDLuderick](https://github.com/globalwetlands/luderick-seagrass)
+- [DeepFish](https://alzayats.github.io/DeepFish/)
+- [VIAME](https://viame.kitware.com)
+
+
 
 ## Miscellaneous
 | Name | Free | Open Source | Notes |
