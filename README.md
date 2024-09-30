@@ -1,5 +1,5 @@
 # Ocean AI Toolkit 
-Collection of tools and resources for marine image and video analysis, annotation, and detection. 
+Collection of tools and resources for marine image/video analysis, annotation, and detection. 
 
 ## Table of Contents
 - [Models](#models)
