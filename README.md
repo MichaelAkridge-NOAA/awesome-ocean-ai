@@ -16,7 +16,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 
 ## Starter Tools
 - https://colab.research.google.com   | Free GPU Access
-- [KSO System] (https://github.com/ocean-data-factory-sweden/kso) - Koster Seafloor Observatory is an open-source, citizen science and machine learning approach
+- [KSO System](https://github.com/ocean-data-factory-sweden/kso) - Koster Seafloor Observatory System is an open-source, citizen science and machine learning approach framework of tools
 
 ## Image Annotation
 | Name | Free | Open Source | AI Assisted Annotation | Notes |
