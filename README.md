@@ -147,3 +147,21 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - https://github.com/slopezmarcano/dataset-fish-detection-low-visibility
 - https://github.com/cappelletto/Geo-SAM
 - https://github.com/coralnet/pyspacer
+- https://subsim.se/ - the Swedish platform for subsea image analysis
+- https://www.zooniverse.org/projects/victorav/the-koster-seafloor-observatory/classify/workflow/23483
+- https://snd.se/sv/catalogue/dataset/2022-98-1/1
+- https://wildlife.ai/using-ai-to-identify-new-zealand-fish-project-completion-update/
+- https://github.com/wildlifeai/FishDetection-FasterRCNN-project
+- Model: https://zenodo.org/records/13589902
+- Dataset: https://www.gbif.org/dataset/51d0bd32-e215-45ea-a04d-47a474336125
+- https://coral.ai/models/
+- https://github.com/google-coral/example-object-tracker
+- https://www.kaggle.com/models/google/multispecies-whale
+- https://www.fisheries.noaa.gov/feature-story/hey-google-find-new-whale-sound?utm_medium=email&utm_source=govdelivery
+- https://www.fisheries.noaa.gov/pacific-islands/population-assessments/passive-acoustics-pacific-islands
+- Harmful algae classifier: https://www.epa.gov/sites/default/files/2018-10/documents/benthic-habs-using-machine-10232018.pdf
+- https://roboflow.com/pricing | Example: https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
+Coralnet - https://coralnet.ucsd.edu/
+ReefCloud - https://reefcloud.ai/
+Mermaid - https://datamermaid.org/
+https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/geospatial-artificial-intelligence-animals
