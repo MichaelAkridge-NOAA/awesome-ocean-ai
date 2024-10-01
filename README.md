@@ -1,5 +1,5 @@
-# Ocean AI Toolkit 
-Collection of tools and resources for marine image/video analysis, annotation, and detection. 
+# Awesome Ocean AI Toolkit 
+An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools for marine image/video analysis, annotation, detection and classification. 
 
 ## Table of Contents
 - [Models](#models)
@@ -151,11 +151,8 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 | [Sharktopoda](https://github.com/mbari-org/Sharktopoda) | ✅ | ✅ | Video player with remote control and bounding box support. |
 | [FishIDTrackers](https://github.com/slopezmarcano/automated-fish-tracking) | ✅ | ✅ | Fish detection and tracking pipelines with demo datasets. |
 
-# To Review:
+# Links To Review:
 - ReefCloud - https://reefcloud.ai/
-- https://github.com/HumanSignal/awesome-data-labeling
-- https://github.com/mattdawkins/awesome-data-annotation
-- https://github.com/cappelletto/awesome-coral-research
 - https://github.com/heinsense2/AIO_CaseStudy
 - https://github.com/Ahmad-AlShalabi/Fish-detection
 - https://github.com/yohmori/Fish-Detector
@@ -171,6 +168,17 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - https://www.zooniverse.org/projects/victorav/spyfish-aotearoa
 - https://zenodo.org/records/5539915
 - Model: https://zenodo.org/records/13589902
+
+## Lists to review
+- https://github.com/HumanSignal/awesome-data-labeling
+- https://github.com/mattdawkins/awesome-data-annotation
+- https://github.com/cappelletto/awesome-coral-research
+- https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme
+- https://github.com/ChristosChristofidis/awesome-deep-learning#readme
+- https://github.com/josephmisiti/awesome-machine-learning#readme
+- https://github.com/likedan/Awesome-CoreML-Models#readme
+- https://github.com/sindresorhus/awesome?tab=readme-ov-file
+
 ----------
 #### Disclaimer
 This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project content is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
