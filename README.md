@@ -32,7 +32,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 | ~~[VoTT (Archived)](https://github.com/Microsoft/VoTT)~~| ✅ | ❌ | ✅ | ✅ | ❌ | Officially archived, last update in 2020. |
 | [SEAMS](https://github.com/begeospatial/seams-app) | ✅ | ❌ | ✅ | ✅ | ❌ | SEafloor Annotation and Mapping Support Open-source tool for video and image annotation. |
 | [labelme](https://github.com/wkentaro/labelme) | ✅ | ❌ | ✅ | ✅ | ❌ | Basic annotation tool for labeling images. |
-| [Sebastes](https://repository.library.noaa.gov/view/noaa/11999/noaa_11999_DS1.pdf) | ✅ | ❌ | ✅ | ✅ | ❌ | Used for fish detection. |
+| [Sebastes](https://repository.library.noaa.gov/view/noaa/11999/noaa_11999_DS1.pdf) | ✅ | ❌ | ✅ | ✅ | ❌ | Used for fish detection. https://github.com/noaa-afsc-mace/SEBASTES |
 | [Squidle+](https://bitbucket.org/ariell/marinedb) | ✅ | ❌ | ✅ | ✅ | ❌ | Marine biology database and annotation tool. |
 | [CoralNet](https://coralnet.ucsd.edu/) | ✅ | ❌ | ✅ | ❌ | ✅ | Great for coral species identification. |
 | [Coral Point Count with Excel extensions](https://cnso.nova.edu/cpce/index.html) | ✅ | ❌ | ✅ | ❌ | ❌ | Popular for coral reef studies. |
@@ -44,7 +44,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 | [RectLabel](https://rectlabel.com/) | ✅ | ❌ | ❌ | ❌ | ❌ | Paid video/image annotation tool for macOS. |
 | [SeaGIS](https://www.seagis.com.au/) | ✅ | ❌ | ❌ | ❌ | ❌ | Includes [EventMeasure](https://www.seagis.com.au/event.html) and [TransectMeasure](https://www.seagis.com.au/transect.html). |
 | [MBARI Media Management (M3/VARS)](https://mbari-media-management.github.io/) | ❌ | ✅ | ✅ | ✅ | ❌ | Specialized tool for deep-sea video management. |
-| ~~[VARS](https://hohonuuli.github.io/vars/)~~| ❌ | ✅ | ✅ | ✅ | ❌ | Deprecated. Annotation and reference system for underwater video. |
+| ~~[VARS](https://hohonuuli.github.io/vars/)~~| ❌ | ✅ | ✅ | ✅ | ❌ | Deprecated. Repalced by MBARI Media Management (M3/VARS) |
 | [video-annotation-tool](https://github.com/video-annotation-project/video-annotation-tool) | ❌ | ✅ | ✅ | ✅ | ❌ | Lightweight, open-source tool. |
 | [Digital Fishers](https://www.oceannetworks.ca/learning/get-involved/citizen-science/digital-fishers) | ❌ | ✅ | ❌ | ❌ | ❌ | Citizen science platform for video classification. |
 | [SeaTube](http://dmas.uvic.ca/SeaTube) | ❌ | ✅ | ✅ | ❌ | ❌ | Tool for underwater video annotation. |
@@ -56,31 +56,36 @@ Collection of tools and resources for marine image/video analysis, annotation, a
   - https://subsim.se/ - the Swedish platform for subsea image analysis
 - https://github.com/esri/deep-learning-frameworks
 ---
-## AI / ML Backends
-| Name | Link | Notes |
-|------|------|-------|
-| Nuclio | [Nuclio GitHub](https://github.com/nuclio/nuclio) | Serverless AI/ML platform for scalable computing. |
-| Label Studio ML Backend | [Label Studio ML](https://github.com/HumanSignal/label-studio-ml-backend) | AI backends for Label Studio. |
-| Tator ML Backend | [Tator GitHub](https://github.com/cvisionai/Tator-ML) | Backend system for AI-driven video annotation. |
+## AI / ML Backend Systems
+| Name                         | Link                                                                 | Notes                                                                 |
+|------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Nuclio                       | [Nuclio GitHub](https://github.com/nuclio/nuclio)                     | Serverless AI/ML platform for scalable computing.                      |
+| Label Studio ML Backend       | [Label Studio ML](https://github.com/HumanSignal/label-studio-ml-backend) | AI backends for Label Studio.                                      |
+| Fastai                        | [Fastai GitHub](https://github.com/fastai/fastai)                    | Simplifies training deep learning models on top of PyTorch.            |
+| Tator ML Backend              | [Tator GitHub](https://github.com/cvisionai/Tator-ML)                | Backend system for AI-driven video annotation.                         |
+| TensorFlow                    | [TensorFlow GitHub](https://github.com/tensorflow/tensorflow)        | Open-source machine learning platform.                                |
+| PyTorch                       | [PyTorch GitHub](https://github.com/pytorch/pytorch)                 | Dynamic deep learning framework.                                       |
+| ONNX                          | [ONNX GitHub](https://github.com/onnx/onnx)                          | Open format for neural network models' portability.                    |
+| Hugging Face Transformers      | [Hugging Face](https://github.com/huggingface/transformers)          | NLP models and tools for machine learning.                            |
+| Apache MXNet                  | [Apache MXNet GitHub](https://github.com/apache/incubator-mxnet)     | Scalable deep learning framework for both symbolic and imperative code.|
+| MLFlow                        | [MLFlow GitHub](https://github.com/mlflow/mlflow)                    | Open-source platform for managing the ML lifecycle.                    |
 
 ---
-
 ## AI / ML Models
-| Name  | Link  | Description |
-|-------|-------|-------------|
-| FathomNet | [Hugging Face](https://huggingface.co/FathomNet) / [GitHub](https://github.com/fathomnet/models) | Models for marine species detection and analysis. |
-| Fish Detector  | [YOLOv8n Grayscale Fish Detector](https://huggingface.co/akridge/yolo8-fish-detector-grayscale) | Grayscale YOLOv8 model trained to detect fish in marine imagery. |
-| VIAME Model Zoo | [VIAME Model Zoo](https://github.com/VIAME/VIAME/wiki/Model-Zoo-and-Add-Ons) | Collection of models and add-ons for video and image-based marine analysis. |
-| Placeholder | | |
-- https://www.zooniverse.org/projects/victorav/spyfish-aotearoa
-- https://zenodo.org/records/5539915
-- https://github.com/facebookresearch/sam2
-- https://github.com/facebookresearch/detr
-- https://github.com/ultralytics/ultralytics
-- https://www.kaggle.com/models/google/multispecies-whale
-- https://coral.ai/models/
-- https://github.com/google-coral/example-object-tracker
-- Model: https://zenodo.org/records/13589902
+
+| Name                      | Link                                                                                           | Type            | Use Case                                                                                          | Description                                                                                                   |
+|---------------------------|------------------------------------------------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| FathomNet Models                 | [Hugging Face](https://huggingface.co/FathomNet) / [GitHub](https://github.com/fathomnet/models) | Various | Marine species detection, environmental monitoring                                                 | Models for detecting marine species in underwater imagery, used for ocean conservation and research.            |
+| Fish Detector              | [YOLOv8n Grayscale Fish Detector](https://huggingface.co/akridge/yolo8-fish-detector-grayscale) | Object Detection / Classificaion| Fish detection in grayscale marine imagery                                                         | YOLOv8-based model fine-tuned for detecting fish in grayscale images captured in deep-sea environments.         |
+| VIAME Model Zoo            | [VIAME Model Zoo](https://github.com/VIAME/VIAME/wiki/Model-Zoo-and-Add-Ons)                   | Various          | Marine video/image analysis                                                                        | A collection of machine learning models for video and image analysis focused on marine species identification.   |
+| SAM2 (Segment Anything)    | [GitHub](https://github.com/facebookresearch/sam2)                                             | Segmentation     | Image segmentation and interactive object detection                                                | Facebook's advanced segmentation model designed to segment any object in an image with minimal user input.      |
+| DEtection TRansformers (DETR) | [GitHub](https://github.com/facebookresearch/detr)                                          | Object Detection | General object detection and segmentation                                                          | Transformer-based object detection model developed by Facebook for image understanding tasks.                   |
+| Ultralytics YOLOv8         | [GitHub](https://github.com/ultralytics/ultralytics)                                           | Various | Real-time object detection, including for images and videos                                        | The latest YOLO (You Only Look Once) version optimized for speed and accuracy in various object detection tasks. |
+| Coral. A platform from Google for local AI     | [CoralNet](https://coral.ai/models/) | Various   | Trained TensorFlow models for the Edge TPU. |
+| Google Multispecies Whale Model | [Kaggle](https://www.kaggle.com/models/google/multispecies-whale)                         | Classification   | Whale species identification from images                                                           | Model trained for classifying different species of whales using images, supporting conservation efforts.        |
+| Google Coral Object Tracker | [GitHub](https://github.com/google-coral/example-object-tracker)                              | Object Tracking  | Real-time object tracking using edge devices                                                       | Object tracking model designed for deployment on Google Coral edge devices.                                     |
+
+
 ---
 
 ## Identification Resources
@@ -91,21 +96,23 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 
 ---
 
-## Training Data Sets & Data Hubs
+## Training Data & Model Hubs
 - [Hugging Face](https://huggingface.co/)
-- [Roboflow](https://roboflow.com/)
-- https://roboflow.com/pricing | Example: https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
 - https://www.zooniverse.org
+- [Roboflow](https://roboflow.com/)
 - [Atlantis Dataset](https://github.com/smhassanerfani/atlantis)
 - [FathomNet](http://fathomnet.org)
 - [Fishnet.AI](https://www.fishnet.ai/)
+- [VIAME](https://viame.kitware.com)
+- Mermaid - https://datamermaid.org/
+
+## Training Data Sets
+- https://www.gbif.org/dataset/51d0bd32-e215-45ea-a04d-47a474336125
+- [Croatian Fish Dataset](https://github.com/jaeger-j/FishID/tree/main/datasets)
 - [FishIDLowViz](https://github.com/slopezmarcano/dataset-fish-detection-low-visibility)
 - [FishIDLuderick](https://github.com/globalwetlands/luderick-seagrass)
 - [DeepFish](https://alzayats.github.io/DeepFish/)
-- [VIAME](https://viame.kitware.com)
-- [Croatian Fish Dataset](https://github.com/jaeger-j/FishID/tree/main/datasets)
-- Dataset: https://www.gbif.org/dataset/51d0bd32-e215-45ea-a04d-47a474336125
-- Mermaid - https://datamermaid.org/
+- https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
 ---
 
 ## Data Managment 
@@ -161,6 +168,9 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 - https://www.zooniverse.org/projects/victorav/the-koster-seafloor-observatory/classify/workflow/23483
 - https://snd.se/sv/catalogue/dataset/2022-98-1/1
 - https://github.com/wildlifeai/FishDetection-FasterRCNN-project
+- https://www.zooniverse.org/projects/victorav/spyfish-aotearoa
+- https://zenodo.org/records/5539915
+- Model: https://zenodo.org/records/13589902
 ----------
 #### Disclaimer
 This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project content is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
