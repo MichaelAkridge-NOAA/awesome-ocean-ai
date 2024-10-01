@@ -29,7 +29,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 | [BIIGLE](https://www.biigle.de/) | ✅ | ✅ | ✅ | ✅ |  | Check [GitHub](https://github.com/biigle/). |
 | [FishID](https://globalwetlandsproject.org/tools-2/fishid/) | ✅ | ✅ | ✅ | 🔜 |  | Email to request access: fishidglow@outlook.com. |
 | [TagLab](https://github.com/cnr-isti-vclab/TagLab/) | ✅ | ❌ | ✅ | ✅ | ✅ |  |
-| [VoTT (Archived)](https://github.com/Microsoft/VoTT) | ✅ | ❌ | ✅ | ✅ | ❌ | Officially archived, last update in 2020. |
+| ~~[VoTT (Archived)](https://github.com/Microsoft/VoTT)~~| ✅ | ❌ | ✅ | ✅ | ❌ | Officially archived, last update in 2020. |
 | [SEAMS](https://github.com/begeospatial/seams-app) | ✅ | ❌ | ✅ | ✅ | ❌ | SEafloor Annotation and Mapping Support Open-source tool for video and image annotation. |
 | [labelme](https://github.com/wkentaro/labelme) | ✅ | ❌ | ✅ | ✅ | ❌ | Basic annotation tool for labeling images. |
 | [Sebastes](https://repository.library.noaa.gov/view/noaa/11999/noaa_11999_DS1.pdf) | ✅ | ❌ | ✅ | ✅ | ❌ | Used for fish detection. |
@@ -44,7 +44,7 @@ Collection of tools and resources for marine image/video analysis, annotation, a
 | [RectLabel](https://rectlabel.com/) | ✅ | ❌ | ❌ | ❌ | ❌ | Paid video/image annotation tool for macOS. |
 | [SeaGIS](https://www.seagis.com.au/) | ✅ | ❌ | ❌ | ❌ | ❌ | Includes [EventMeasure](https://www.seagis.com.au/event.html) and [TransectMeasure](https://www.seagis.com.au/transect.html). |
 | [MBARI Media Management (M3/VARS)](https://mbari-media-management.github.io/) | ❌ | ✅ | ✅ | ✅ | ❌ | Specialized tool for deep-sea video management. |
-| [VARS](https://hohonuuli.github.io/vars/) | ❌ | ✅ | ✅ | ✅ | ❌ | Annotation and reference system for underwater video. |
+| ~~[VARS](https://hohonuuli.github.io/vars/)~~| ❌ | ✅ | ✅ | ✅ | ❌ | Deprecated. Annotation and reference system for underwater video. |
 | [video-annotation-tool](https://github.com/video-annotation-project/video-annotation-tool) | ❌ | ✅ | ✅ | ✅ | ❌ | Lightweight, open-source tool. |
 | [Digital Fishers](https://www.oceannetworks.ca/learning/get-involved/citizen-science/digital-fishers) | ❌ | ✅ | ❌ | ❌ | ❌ | Citizen science platform for video classification. |
 | [SeaTube](http://dmas.uvic.ca/SeaTube) | ❌ | ✅ | ✅ | ❌ | ❌ | Tool for underwater video annotation. |
