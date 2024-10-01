@@ -1,6 +1,8 @@
 # Awesome Ocean AI Toolkit 
 An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools for marine image/video analysis, annotation, detection and classification. 
 
+*note: this is a work in progress*
+
 ## Table of Contents
 - [Models](#models)
 - [Identification Resources](#identification-resources)
