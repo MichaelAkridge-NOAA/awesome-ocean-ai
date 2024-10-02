@@ -129,6 +129,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 
 # AI / ML Deep Learning & GIS
 - https://doc.arcgis.com/en/pretrained-models/latest/get-started/what-s-new.htm
+- https://learn.arcgis.com/en/projects/improve-a-deep-learning-model-with-transfer-learning/
 - https://github.com/coolzhao/Geo-SAM
 - https://github.com/esri/deep-learning-frameworks
 - https://doc.arcgis.com/en/pretrained-models/latest/imagery/using-segment-anything-model-sam-.htm
