@@ -128,6 +128,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
   - https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
 
 # AI / ML Deep Learning & GIS
+- https://doc.arcgis.com/en/pretrained-models/latest/get-started/what-s-new.htm
 - https://github.com/coolzhao/Geo-SAM
 - https://github.com/esri/deep-learning-frameworks
 - https://doc.arcgis.com/en/pretrained-models/latest/imagery/using-segment-anything-model-sam-.htm
