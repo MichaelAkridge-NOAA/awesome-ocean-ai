@@ -128,13 +128,14 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
   - https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
 
 # AI / ML Deep Learning & GIS
+- https://github.com/esri/deep-learning-frameworks
 - https://doc.arcgis.com/en/pretrained-models/latest/get-started/what-s-new.htm
 - https://learn.arcgis.com/en/projects/improve-a-deep-learning-model-with-transfer-learning/
-- https://github.com/coolzhao/Geo-SAM
-- https://github.com/esri/deep-learning-frameworks
+- https://livingatlas.arcgis.com/en/browse/?q=Pretrained%20model#q=Pretrained+model&d=2
 - https://doc.arcgis.com/en/pretrained-models/latest/imagery/using-segment-anything-model-sam-.htm
 - https://www.arcgis.com/home/item.html?id=9b67b441f29f4ce6810979f5f0667ebe
 - https://doc.arcgis.com/en/pretrained-models/latest/imagery/introduction-to-segment-anything-model-sam-.htm
+- https://github.com/coolzhao/Geo-SAM
 
 # News, Readings & Journals
 - https://www.fisheries.noaa.gov/feature-story/hey-google-find-new-whale-sound?utm_medium=email&utm_source=govdelivery
