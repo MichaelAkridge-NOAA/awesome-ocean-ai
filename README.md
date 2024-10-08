@@ -175,6 +175,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 - Model: https://zenodo.org/records/13589902
 
 ## Lists to review
+- https://github.com/Renumics/awesome-open-data-centric-ai
 - https://github.com/HumanSignal/awesome-data-labeling
 - https://github.com/mattdawkins/awesome-data-annotation
 - https://github.com/cappelletto/awesome-coral-research
