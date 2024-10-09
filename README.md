@@ -109,6 +109,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 - Mermaid - https://datamermaid.org/
 
 ## Training Data Sets
+- fish: https://fishair.org/index.html
 - https://www.gbif.org/dataset/51d0bd32-e215-45ea-a04d-47a474336125
 - [Croatian Fish Dataset](https://github.com/jaeger-j/FishID/tree/main/datasets)
 - [FishIDLowViz](https://github.com/slopezmarcano/dataset-fish-detection-low-visibility)
