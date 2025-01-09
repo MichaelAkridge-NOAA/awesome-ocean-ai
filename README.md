@@ -4,12 +4,11 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 *note: this is a work in progress*
 
 ## Table of Contents
-- [Models](#models)
+- [AI / ML Models](#ai--ml-models)
+- [Image / Video Annotation](#image-and-video-annotation)
+- [AI / ML Backends](#ai--ml-backends)
 - [Identification Resources](#identification-resources)
 - [Training Data Sets](#training-data-sets)
-- [Image Annotation](#image-annotation)
-- [Video Annotation](#video-annotation)
-- [AI / ML Backends](#ai--ml-backends)
 - [Miscellaneous](#miscellaneous)
 
 ---
@@ -77,6 +76,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 
 | Name                      | Link                                                                                           | Type            | Use Case                                                                                          | Description                                                                                                   |
 |---------------------------|------------------------------------------------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| NOAA-PIFSC-AI Models | [Hugging Face](https://huggingface.co/noaa-pifsc-ai) | Various | Marine species detection, environmental monitoring  | Models for detecting marine species in underwater imagery, used for ocean conservation and research.            |
 | FathomNet Models                 | [Hugging Face](https://huggingface.co/FathomNet) / [GitHub](https://github.com/fathomnet/models) | Various | Marine species detection, environmental monitoring                                                 | Models for detecting marine species in underwater imagery, used for ocean conservation and research.            |
 | Fish Detector              | [YOLOv8n Grayscale Fish Detector](https://huggingface.co/akridge/yolo8-fish-detector-grayscale) | Object Detection / Classificaion| Fish detection in grayscale marine imagery                                                         | YOLOv8-based model fine-tuned for detecting fish in grayscale images captured in deep-sea environments.         |
 | VIAME Model Zoo            | [VIAME Model Zoo](https://github.com/VIAME/VIAME/wiki/Model-Zoo-and-Add-Ons)                   | Various          | Marine video/image analysis                                                                        | A collection of machine learning models for video and image analysis focused on marine species identification.   |
@@ -122,7 +122,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 - https://github.com/csiro-fair/marimba
 - https://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/what-is-a-geodatabase.htm
 
-## Apps
+## AI / ML Apps
 - https://github.com/MichaelAkridge-NOAA/Fish-or-No-Fish-Detector
 - https://github.com/tkwant/fish-localization
 - https://github.com/ShrimpCryptid/deepsea-detector
