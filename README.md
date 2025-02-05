@@ -185,6 +185,18 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 - https://github.com/likedan/Awesome-CoreML-Models#readme
 - https://github.com/sindresorhus/awesome?tab=readme-ov-file
 
+
+## Other things To review
+https://espace.library.uq.edu.au/view/UQ:ee89d97
+https://github.com/DeepLabCut/DeepLabCut
+https://github.com/mage-ai/mage-ai
+https://github.com/Chouffe/notes
+https://console.cloud.google.com/storage/browser/rs_storage_open
+https://github.com/diffgram/diffgram
+https://diffgram.readme.io/docs/3d-lidar-annotation-guide
+https://github.com/Shathe/ML-Superpixels
+https://github.com/zhengziqiang/CoralSCOP
+https://github.com/Jordan-Pierce/xSAM
 ----------
 #### Disclaimer
 This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project content is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
