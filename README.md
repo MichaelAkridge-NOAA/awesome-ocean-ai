@@ -198,6 +198,9 @@ https://github.com/heremaps/pptk#build
 https://github.com/fwilliams/point-cloud-utils
 https://medium.com/towards-data-science/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c
 https://medium.com/towards-data-science/5-step-guide-to-generate-3d-meshes-from-point-clouds-with-python-36bad397d8ba
+https://medium.com/towards-data-science/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c
+https://medium.com/towards-data-science/3d-machine-learning-course-point-cloud-semantic-segmentation-9b32618ca5df
+https://medium.com/towards-data-science/3d-python-workflows-for-lidar-point-clouds-100ff40e4ff0
 https://learngeodata.eu/visualise-massive-point-cloud-in-python/
 https://towardsdatascience.com/how-to-voxelize-meshes-and-point-clouds-in-python-ca94d403f81d/
 https://paperswithcode.com/task/3d-object-detection
@@ -207,6 +210,10 @@ https://soulhackerslabs.com/testing-open3d-ml-for-3d-object-detection-and-segmen
 https://github.com/Azitt/SegFormer-Training_From-Scratch_vs_HuggingFace/tree/main
 https://huggingface.co/blog/fine-tune-vit
 https://keras.io/examples/vision/object_detection_using_vision_transformer/
+
+
+
+
 ----------
 #### Disclaimer
 This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project content is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
