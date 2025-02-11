@@ -173,8 +173,6 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 - https://www.zooniverse.org/projects/victorav/spyfish-aotearoa
 - https://zenodo.org/records/5539915
 - Model: https://zenodo.org/records/13589902
-
-## Lists to review
 - https://github.com/Renumics/awesome-open-data-centric-ai
 - https://github.com/HumanSignal/awesome-data-labeling
 - https://github.com/mattdawkins/awesome-data-annotation
@@ -184,9 +182,6 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 - https://github.com/josephmisiti/awesome-machine-learning#readme
 - https://github.com/likedan/Awesome-CoreML-Models#readme
 - https://github.com/sindresorhus/awesome?tab=readme-ov-file
-
-
-## Other things To review
 https://espace.library.uq.edu.au/view/UQ:ee89d97
 https://github.com/DeepLabCut/DeepLabCut
 https://github.com/mage-ai/mage-ai
@@ -197,6 +192,22 @@ https://diffgram.readme.io/docs/3d-lidar-annotation-guide
 https://github.com/Shathe/ML-Superpixels
 https://github.com/zhengziqiang/CoralSCOP
 https://github.com/Jordan-Pierce/xSAM
+https://github.com/microsoft/data-formulator
+https://github.com/PointCloudLibrary/pcl
+https://github.com/vinits5/learning3d
+https://github.com/heremaps/pptk#build
+https://github.com/fwilliams/point-cloud-utils
+https://medium.com/towards-data-science/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c
+https://medium.com/towards-data-science/5-step-guide-to-generate-3d-meshes-from-point-clouds-with-python-36bad397d8ba
+https://learngeodata.eu/visualise-massive-point-cloud-in-python/
+https://towardsdatascience.com/how-to-voxelize-meshes-and-point-clouds-in-python-ca94d403f81d/
+https://paperswithcode.com/task/3d-object-detection
+https://github.com/isl-org/Open3D-ML
+https://medium.com/@luis_gonzales/an-in-depth-look-at-pointnet-111d7efdaa1a
+https://soulhackerslabs.com/testing-open3d-ml-for-3d-object-detection-and-segmentation-df125e7a8283
+https://github.com/Azitt/SegFormer-Training_From-Scratch_vs_HuggingFace/tree/main
+https://huggingface.co/blog/fine-tune-vit
+https://keras.io/examples/vision/object_detection_using_vision_transformer/
 ----------
 #### Disclaimer
 This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project content is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
