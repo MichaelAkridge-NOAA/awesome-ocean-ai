@@ -127,6 +127,17 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 - https://github.com/ShrimpCryptid/deepsea-detector
   - https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
 
+## Miscellaneous
+| Name | Free | Open Source | Notes |
+| -- | -- | -- | -- |
+| [Norfair](https://github.com/tryolabs/norfair) | ✅ | ✅ | Lightweight Python library for adding real-time multi-object tracking to any detector.|
+| [Cthulhu](https://github.com/mbari-media-management/cthulhu) | ✅ | ✅ | Video player with remote control API and localization support. |
+| [iNaturalist](https://www.inaturalist.org/) | ✅ | ❌ | Biodiversity identification resource. |
+| [Matisse](https://www.eso.org/sci/facilities/develop/instruments/matisse.html) | ❌ | ❌ | Tool for spectral analysis. |
+| [OpenCV](https://opencv.org/) | ✅ | ✅ | Computer vision library for image/video processing. |
+| [Sharktopoda](https://github.com/mbari-org/Sharktopoda) | ✅ | ✅ | Video player with remote control and bounding box support. |
+| [FishIDTrackers](https://github.com/slopezmarcano/automated-fish-tracking) | ✅ | ✅ | Fish detection and tracking pipelines with demo datasets. |
+
 # AI / ML Deep Learning & GIS
 - https://github.com/esri/deep-learning-frameworks
 - https://doc.arcgis.com/en/pretrained-models/latest/get-started/what-s-new.htm
@@ -143,17 +154,6 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 - https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/geospatial-artificial-intelligence-animals
 - Harmful algae classifier: https://www.epa.gov/sites/default/files/2018-10/documents/benthic-habs-using-machine-10232018.pdf
 - https://wildlife.ai/using-ai-to-identify-new-zealand-fish-project-completion-update/
-
-## Miscellaneous
-| Name | Free | Open Source | Notes |
-| -- | -- | -- | -- |
-| [Norfair](https://github.com/tryolabs/norfair) | ✅ | ✅ | Lightweight Python library for adding real-time multi-object tracking to any detector.|
-| [Cthulhu](https://github.com/mbari-media-management/cthulhu) | ✅ | ✅ | Video player with remote control API and localization support. |
-| [iNaturalist](https://www.inaturalist.org/) | ✅ | ❌ | Biodiversity identification resource. |
-| [Matisse](https://www.eso.org/sci/facilities/develop/instruments/matisse.html) | ❌ | ❌ | Tool for spectral analysis. |
-| [OpenCV](https://opencv.org/) | ✅ | ✅ | Computer vision library for image/video processing. |
-| [Sharktopoda](https://github.com/mbari-org/Sharktopoda) | ✅ | ✅ | Video player with remote control and bounding box support. |
-| [FishIDTrackers](https://github.com/slopezmarcano/automated-fish-tracking) | ✅ | ✅ | Fish detection and tracking pipelines with demo datasets. |
 
 # Links To Review:
 - ReefCloud - https://reefcloud.ai/
@@ -181,39 +181,48 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 - https://github.com/josephmisiti/awesome-machine-learning#readme
 - https://github.com/likedan/Awesome-CoreML-Models#readme
 - https://github.com/sindresorhus/awesome?tab=readme-ov-file
-https://espace.library.uq.edu.au/view/UQ:ee89d97
-https://github.com/DeepLabCut/DeepLabCut
-https://github.com/mage-ai/mage-ai
-https://github.com/Chouffe/notes
-https://console.cloud.google.com/storage/browser/rs_storage_open
-https://github.com/diffgram/diffgram
-https://diffgram.readme.io/docs/3d-lidar-annotation-guide
-https://github.com/Shathe/ML-Superpixels
-https://github.com/zhengziqiang/CoralSCOP
-https://github.com/Jordan-Pierce/xSAM
-https://github.com/microsoft/data-formulator
-https://github.com/PointCloudLibrary/pcl
-https://github.com/vinits5/learning3d
-https://github.com/heremaps/pptk#build
-https://github.com/fwilliams/point-cloud-utils
-https://medium.com/towards-data-science/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c
-https://medium.com/towards-data-science/5-step-guide-to-generate-3d-meshes-from-point-clouds-with-python-36bad397d8ba
-https://medium.com/towards-data-science/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c
-https://medium.com/towards-data-science/3d-machine-learning-course-point-cloud-semantic-segmentation-9b32618ca5df
-https://medium.com/towards-data-science/3d-python-workflows-for-lidar-point-clouds-100ff40e4ff0
-https://learngeodata.eu/visualise-massive-point-cloud-in-python/
-https://towardsdatascience.com/how-to-voxelize-meshes-and-point-clouds-in-python-ca94d403f81d/
-https://paperswithcode.com/task/3d-object-detection
-https://github.com/isl-org/Open3D-ML
-https://medium.com/@luis_gonzales/an-in-depth-look-at-pointnet-111d7efdaa1a
-https://soulhackerslabs.com/testing-open3d-ml-for-3d-object-detection-and-segmentation-df125e7a8283
-https://github.com/Azitt/SegFormer-Training_From-Scratch_vs_HuggingFace/tree/main
-https://huggingface.co/blog/fine-tune-vit
-https://keras.io/examples/vision/object_detection_using_vision_transformer/
-https://soulhackerslabs.com/testing-open3d-ml-for-3d-object-detection-and-segmentation-df125e7a8283
-https://github.com/datasets
+- https://espace.library.uq.edu.au/view/UQ:ee89d97
+- https://github.com/DeepLabCut/DeepLabCut
+- https://github.com/mage-ai/mage-ai
+- https://github.com/Chouffe/notes
+- https://console.cloud.google.com/storage/browser/rs_storage_open
+- https://github.com/diffgram/diffgram
+- https://diffgram.readme.io/docs/3d-lidar-annotation-guide
+- https://github.com/Shathe/ML-Superpixels
+- https://github.com/zhengziqiang/CoralSCOP
+- https://github.com/Jordan-Pierce/xSAM
+- https://github.com/microsoft/data-formulator
+- https://github.com/PointCloudLibrary/pcl
+- https://github.com/vinits5/learning3d
+- https://github.com/heremaps/pptk#build
+- https://github.com/fwilliams/point-cloud-utils
+- https://medium.com/towards-data-science/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c
+- https://medium.com/towards-data-science/5-step-guide-to-generate-3d-meshes-from-point-clouds-with-python-36bad397d8ba
+- https://medium.com/towards-data-science/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c
+- https://medium.com/towards-data-science/3d-machine-learning-course-point-cloud-semantic-segmentation-9b32618ca5df
+- https://medium.com/towards-data-science/3d-python-workflows-for-lidar-point-clouds-100ff40e4ff0
+- https://learngeodata.eu/visualise-massive-point-cloud-in-python/
+- https://towardsdatascience.com/how-to-voxelize-meshes-and-point-clouds-in-python-ca94d403f81d/
+- https://paperswithcode.com/task/3d-object-detection
+- https://github.com/isl-org/Open3D-ML
+- https://medium.com/@luis_gonzales/an-in-depth-look-at-pointnet-111d7efdaa1a
+- https://soulhackerslabs.com/testing-open3d-ml-for-3d-object-detection-and-segmentation-df125e7a8283
+- https://github.com/Azitt/SegFormer-Training_From-Scratch_vs_HuggingFace/tree/main
+- https://huggingface.co/blog/fine-tune-vit
+- https://keras.io/examples/vision/object_detection_using_vision_transformer/
+- https://soulhackerslabs.com/testing-open3d-ml-for-3d-object-detection-and-segmentation-df125e7a8283
+- https://github.com/orgs/open-AIMS/
+- https://github.com/tyremmers/RapidBenthos
+- https://huggingface.co/ReefNet
+- https://github.com/ReefNet-Project
 
+### Data Links to Review:
+- https://github.com/datasets
+- https://github.com/pangaea-data-publisher/fuji
+- https://www.f-uji.net/index.php
+- https://ioos.github.io/ioos-code-sprint/2024/topics/07-ai-ready-data-checker.html
 
+  
 ----------
 #### Disclaimer
 This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project content is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
