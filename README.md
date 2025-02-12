@@ -210,8 +210,8 @@ https://soulhackerslabs.com/testing-open3d-ml-for-3d-object-detection-and-segmen
 https://github.com/Azitt/SegFormer-Training_From-Scratch_vs_HuggingFace/tree/main
 https://huggingface.co/blog/fine-tune-vit
 https://keras.io/examples/vision/object_detection_using_vision_transformer/
-
-
+https://soulhackerslabs.com/testing-open3d-ml-for-3d-object-detection-and-segmentation-df125e7a8283
+https://github.com/datasets
 
 
 ----------
