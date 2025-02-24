@@ -15,6 +15,8 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 ## Starter Courses 
 - https://developers.google.com/machine-learning/foundational-courses
 - https://developers.google.com/machine-learning/crash-course/
+- https://github.com/atticus-carter/cv/tree/main
+- https://oceancv.org/index.html
 
 ## StarterTools 
 - https://colab.research.google.com   (Free GPU Access)
@@ -116,6 +118,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 - [FishIDLuderick](https://github.com/globalwetlands/luderick-seagrass)
 - [DeepFish](https://alzayats.github.io/DeepFish/)
 - https://universe.roboflow.com/uwrov-2022-ml-challenge/deepsea-detect--mate-2022-ml-challenge
+- https://universe.roboflow.com/lini-foundation/lini-coral-forms-1.0/dataset/1
 ---
 
 ## Data Managment 
