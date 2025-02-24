@@ -13,6 +13,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of resources & tools 
 
 ---
 ## Starter Courses 
+- https://developers.google.com/machine-learning/foundational-courses
 - https://developers.google.com/machine-learning/crash-course/
 
 ## StarterTools 
